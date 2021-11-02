@@ -1,5 +1,6 @@
-# Repositorio_de_Tareas
-En este repositorio se encuentran las tareas de Métodos matemáticos para físicos I
-
-
-By: Angélica María Angarita Leal - 2200801
+# TareasCursos
+Este repostorio debe clonarse para reportar las tareas y asignaciones
+Dispone de tres directorios: 
++ DocPDF (para albergar los documentos)
++ Codigos (para albergar los códigos creados a partir de los ejercicios)
++ Datos (para albergar los datos y/o resultados)
