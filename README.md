@@ -4,3 +4,7 @@ Dispone de tres directorios:
 + DocPDF (para albergar los documentos)
 + Codigos (para albergar los códigos creados a partir de los ejercicios)
 + Datos (para albergar los datos y/o resultados)
+
+2200801 - Angélica Angarita 
+
+2200023 - Nathalia Pérez
