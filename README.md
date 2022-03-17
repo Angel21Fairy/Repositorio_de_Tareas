@@ -7,4 +7,3 @@ Dispone de tres directorios:
 
 ## Integrantes
 2200801 - Angélica Angarita  
-2200023 - Nathalia Pérez
